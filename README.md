@@ -19,7 +19,5 @@ The notebook is the primary artifact and includes:
 
 > If you are reviewing this project, please start with the notebook above.
 
----
 
-## Repository Structure
 
