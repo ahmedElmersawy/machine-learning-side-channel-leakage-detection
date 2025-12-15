@@ -1,12 +1,21 @@
-# Machine Learning-based Side-Channel Leakage Detection
+# Machine Learning–Based Side-Channel Leakage Detection
 
 This repository contains the code, data, and results for a course project on
-machine learning-based side-channel analysis using synthetic power traces.
+machine learning–based side-channel analysis using synthetic power traces.
 
-## Contents
-- Jupyter notebook(s)
-- sample_data/: example datasets
-- sca_outputs/: models, figures, logs, and serialized results
+##  Start Here (Main Notebook) 
+ **Open the main Jupyter notebook to view the full project:** 
 
-## Notes
-All experiments use synthetic traces following a Hamming-weight leakage model.
+- **`<machine-learning-side-channel-leakage-detection>.ipynb`** 
+
+The notebook includes:
+- Synthetic side-channel trace generation
+- Hamming-weight leakage modeling
+- CNN training and evaluation
+- Figures, metrics, and analysis used in the final report
+
+> If you are reviewing this project, the notebook is the primary artifact.
+
+---
+
+## Repository Structure
