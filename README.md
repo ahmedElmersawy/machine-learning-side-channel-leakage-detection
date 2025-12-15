@@ -1,12 +1,8 @@
-# Machine Learning–Based Side-Channel Leakage Detection
+## Start Here (Main Notebook)
 
-This repository contains the code, data, and results for a course project on
-machine learning–based side-channel analysis using synthetic power traces.
-
-##  Start Here (Main Notebook)
-**Open the main Jupyter notebook to view the full project:**
-
-- **`<YOUR_NOTEBOOK_NAME>.ipynb`**
+[sca_ml_side_channel.ipynb](./sca_ml_side_channel.ipynb)**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/ahmedElmersawy/machine-learning-side-channel-leakage-detection/blob/main/sca_ml_side_channel.ipynb)
 
 The notebook includes:
 - Synthetic side-channel trace generation
@@ -15,7 +11,3 @@ The notebook includes:
 - Figures, metrics, and analysis used in the final report
 
 > If you are reviewing this project, the notebook is the primary artifact.
-
----
-
-## Repository Structure
