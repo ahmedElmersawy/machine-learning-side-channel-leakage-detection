@@ -3,10 +3,10 @@
 This repository contains the code, data, and results for a course project on
 machine learning–based side-channel analysis using synthetic power traces.
 
-##  Start Here (Main Notebook) 
- **Open the main Jupyter notebook to view the full project:** 
+##  Start Here (Main Notebook)
+**Open the main Jupyter notebook to view the full project:**
 
-- **`<machine-learning-side-channel-leakage-detection>.ipynb`** 
+- **`<YOUR_NOTEBOOK_NAME>.ipynb`**
 
 The notebook includes:
 - Synthetic side-channel trace generation
