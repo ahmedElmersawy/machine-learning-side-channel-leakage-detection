@@ -9,7 +9,7 @@ machine learning–based side-channel analysis using synthetic power traces.
 
  **Open the main Jupyter notebook to view the full project:**
 
-- **[NOTEBOOK_NAME.ipynb](./NOTEBOOK_NAME.ipynb)**
+- **[Machine_Learning_based_Side_Channel_Leakage_Detectionipynb](./NOTEBOOK_NAME.ipynb)**
 
 The notebook is the primary artifact and includes:
 - Synthetic side-channel trace generation
